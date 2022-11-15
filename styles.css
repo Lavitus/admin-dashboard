@@ -382,3 +382,8 @@ i.searchBtn {
 .av4 {
     background-image: url(avatars/avatar4.jpg);
 }
+
+.attributeImg {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
